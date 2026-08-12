@@ -4,10 +4,6 @@ Public website, privacy policy, terms, and support pages for **Project Eternal**
 
 ## GitHub Pages
 
-Site:
+Site: [https://leavesnight.github.io/ProjectEternal-Web/](https://leavesnight.github.io/ProjectEternal-Web/)
 
-`https://leavesnight.github.io/ProjectEternal-Web/`
-
-PICO privacy policy URL:
-
-`https://leavesnight.github.io/ProjectEternal-Web/privacy/`
+PICO privacy policy URL: [https://leavesnight.github.io/ProjectEternal-Web/privacy/](https://leavesnight.github.io/ProjectEternal-Web/privacy/)
